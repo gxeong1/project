@@ -16,10 +16,6 @@ img{
     border-radius: 10px;
 }
 
-.main-img{
-    margin-top: 60px;
-}
-
 .peach-row {
     display: flex;
     justify-content: center;
